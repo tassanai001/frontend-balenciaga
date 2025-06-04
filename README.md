@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
+This project requires **Node.js 14 or newer**.
+
 Below you will find some information on how to perform common tasks.<br>
 You can find the most recent version of this guide [here](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md).
 
@@ -1636,7 +1638,7 @@ If you use [Visual Studio Code](https://code.visualstudio.com), there is a [Jest
 
 There are various ways to setup a debugger for your Jest tests. We cover debugging in Chrome and [Visual Studio Code](https://code.visualstudio.com/).
 
->Note: debugging tests requires Node 8 or higher.
+>Note: debugging tests requires Node 14 or higher.
 
 ### Debugging Tests in Chrome
 
